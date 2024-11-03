@@ -13,5 +13,6 @@ namespace Tut9Advanced.Models
         public DbSet<GameDrive> gameDrives { get; set; }
         public DbSet<Vehicle> vehicles { get; set; }
         public DbSet<Driver> drivers { get; set; }
+        public DbSet<Code10DriverPerfomanceViewModel> code10Drivers { get; set; }
     }
 }

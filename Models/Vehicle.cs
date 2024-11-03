@@ -20,7 +20,7 @@ namespace Tut9Advanced.Models
 
         public decimal RatePerPerson { get; set; }
 
-        public int DriverPoints { get; set; }
-        public decimal DriverCash { get; set; }
+       // public int DriverPoints { get; set; }
+        //public decimal DriverCash { get; set; }
     }
 }
